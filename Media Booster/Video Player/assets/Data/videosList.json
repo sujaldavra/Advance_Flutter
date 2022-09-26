@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://images.pexels.com/photos/7753054/pexels-photo-7753054.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "Nature",
+    "assetsVideos" : [
+      "assets/videos/Nature1.mp4",
+      "assets/videos/Nature2.mp4",
+      "assets/videos/Nature3.mp4"
+    ],
+    "networkVideos" : [
+      "https://assets.mixkit.co/videos/preview/mixkit-going-down-a-curved-highway-through-a-mountain-range-41576-large.mp4"
+    ]
+  },
+  {
+    "image": "https://www.worldanimalprotection.org/sites/default/files/styles/600x400/public/media/int_files/elephant_in_tanzania.jpg?h=f507d761&itok=8phdOxrJ",
+    "category": "Animals",
+    "assetsVideos" : [
+      "assets/videos/Animals1.mp4",
+      "assets/videos/Animals2.mp4",
+      "assets/videos/Animals3.mp4"
+    ],
+    "networkVideos" : [
+      "https://assets.mixkit.co/videos/preview/mixkit-a-herd-of-lions-walking-11054-large.mp4"
+    ]
+  },
+  {
+    "image": "https://images.pexels.com/photos/5120093/pexels-photo-5120093.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "Car",
+    "assetsVideos" : [
+      "assets/videos/Car1.mp4",
+      "assets/videos/Car2.mp4",
+      "assets/videos/Car3.mp4"
+    ],
+    "networkVideos" : [
+      "https://download-video.akamaized.net/2/playback/3d6264e4-df1a-4160-939a-9909f2658c22/dbda6cd5-ca13484f?__token__=st=1663828317~exp=1663842717~acl=%2F2%2Fplayback%2F3d6264e4-df1a-4160-939a-9909f2658c22%2Fdbda6cd5-ca13484f%2A~hmac=a60d9b32a1e0219b58648c67579dda799228fec03f66ac43dd01a3d5f9d93ad8&r=dXMtZWFzdDE%3D"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 8,
+    "category": "Nature",
+    "image": "assets/images/Nature.jpg",
+    "images": [
+      "assets/images/Nature1.jpg",
+      "assets/images/Nature2.jpg",
+      "assets/images/Nature3.jpg",
+      "assets/images/Nature4.jpg",
+      "assets/images/Nature5.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 4,
+    "category": "Animals",
+    "image": "assets/images/Animals.jpg",
+    "images": [
+      "assets/images/Animals1.jpg",
+      "assets/images/Animals2.jpg",
+      "assets/images/Animals3.jpg",
+      "assets/images/Animals4.jpg",
+      "assets/images/Animals5.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 4,
+    "category": "Car",
+    "image": "assets/images/Car.jpg",
+    "images": [
+      "assets/images/Car1.jpg",
+      "assets/images/Car2.jpg",
+      "assets/images/Car3.jpg",
+      "assets/images/Car4.jpg",
+      "assets/images/Car5.jpg"
+    ]
+
+  },
+  {
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 6,
+    "category": "Beach",
+    "image": "assets/images/Beach.jpg",
+    "images": [
+      "assets/images/Beach1.jpg",
+      "assets/images/Beach2.jpg",
+      "assets/images/Beach3.jpg",
+      "assets/images/Beach4.jpg",
+      "assets/images/Beach5.jpg"
+    ]
+  },
+
+  {
+    "crossAxisCellCount": 10,
+    "mainAxisCellCount": 8,
+    "category": "City",
+    "image": "assets/images/City.jpg",
+    "images": [
+      "assets/images/City1.jpg",
+      "assets/images/City2.jpg",
+      "assets/images/City3.jpg",
+      "assets/images/City4.jpg",
+      "assets/images/City5.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 5,
+    "category": "Sky",
+    "image": "assets/images/Sky.jpg",
+    "images": [
+      "assets/images/Sky1.jpg",
+      "assets/images/Sky2.jpg",
+      "assets/images/Sky3.jpg",
+      "assets/images/Sky4.jpg",
+      "assets/images/Sky5.jpg"
+    ]
+  },
+  {
+    "crossAxisCellCount": 5,
+    "mainAxisCellCount": 5,
+    "category": "Waterfall",
+    "image": "assets/images/Waterfall.jpg",
+    "images": [
+      "assets/images/Waterfall1.jpg",
+      "assets/images/Waterfall2.jpg",
+      "assets/images/Waterfall3.jpg",
+      "assets/images/Waterfall4.jpg",
+      "assets/images/Waterfall5.jpg"
+    ]
+  }
+]
